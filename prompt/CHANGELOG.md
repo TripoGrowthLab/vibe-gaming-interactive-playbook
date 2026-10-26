@@ -4,6 +4,10 @@ The prompt in [`vibe-gaming.md`](vibe-gaming.md) is copied into a coding agent a
 
 Every change comes from building a game with the prompt from an empty folder and writing down where the agent, or the person following step 4 in Tripo Studio, went wrong.
 
+## 1.1, link update — 2026-10-26
+
+Step 4 now gives the agent the Tripo Studio link to hand you. That link and the one in [`tripo-studio-steps.md`](tripo-studio-steps.md) carry a `from` tag, so Tripo can count the visits that come from this prompt. Nothing the agent builds changes, so the version stays 1.1.
+
 ## 1.1 — 2026-10-09
 
 Built twice from an empty folder with the first 1.1 draft: a toy kart race (a vehicle split into parts, a seated driver, four skins) and a collect-and-stomp platformer (a running, jumping hero, a robot creature that falls apart, several skins). Both reached a compressed build with no hands-on help from the person following along. A test of high-quality hero models followed, then a third build with the revised draft. The lines below are the first draft plus the fixes those builds and the test asked for; two lines marked *untested* come from looking at why the kart looked plain. With the Studio steps moved out to their own page, the prompt went from about 2,620 to 3,030 words, plus about 1,200 words in the steps page.
