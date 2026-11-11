@@ -15,6 +15,14 @@ Studio changes often. If a button is not where these steps say, look for it near
 
 In Studio, open **Image**, paste the row's prompt and generate. Pick the image whose shape best matches the row: right proportions, a clean white background, and for a person a clean T-pose with space between the arms, legs and body. For a hero, generate a few and pick the one with the clearest details. If a picture shows the character twice (front and back), do not use it; generate again.
 
+**Several characters in one style.** These tips come from someone else's build, not from the builds behind this prompt: [kokushin (@kokushing)](https://x.com/kokushing/status/2120081025338663303) made 20 NPCs for his own MMORPG with Claude Code and Tripo Studio's Multiview (post in Japanese; a Tripo paid partnership). He drew a front, side and back sketch for each character and:
+
+- had a person check the three sketches before spending any credits;
+- drew lines across the three sketches so the heights match, because sketches that did not line up gave broken models;
+- had a second AI, not the one that made the sketches, review every outfit; in 20 outfits it found 20 problems, and 5 characters were redrawn.
+
+He spent about 80 credits per character (40 for the head, 40 for the outfit).
+
 ## 2. Make the model
 
 Hover over the image you picked and click **Generate 3D**. What you choose depends on the row's kind.
