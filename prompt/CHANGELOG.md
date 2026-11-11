@@ -4,6 +4,10 @@ The prompt in [`vibe-gaming.md`](vibe-gaming.md) is copied into a coding agent a
 
 Every change comes from building a game with the prompt from an empty folder and writing down where the agent, or the person following step 4 in Tripo Studio, went wrong.
 
+## Steps page, community tip — 2026-11-11
+
+Step 1 of [`tripo-studio-steps.md`](tripo-studio-steps.md) now has a note on making several characters in one style. It is the first note that does not come from a build with this prompt: it summarises [kokushin's NPC build](https://x.com/kokushing/status/2120081025338663303) (Claude Code and Tripo Studio Multiview, a Tripo paid partnership) and says so where it appears. The prompt itself does not change; if a build with the prompt confirms the tips, they move into it with a row here.
+
 ## 1.1, link update — 2026-10-26
 
 Step 4 now gives the agent the Tripo Studio link to hand you. That link and the one in [`tripo-studio-steps.md`](tripo-studio-steps.md) carry a `from` tag, so Tripo can count the visits that come from this prompt. Nothing the agent builds changes, so the version stays 1.1.
