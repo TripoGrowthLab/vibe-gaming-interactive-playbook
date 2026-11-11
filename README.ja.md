@@ -170,6 +170,10 @@ Tripo のモデル自体はこのリポジトリに含まれていません。�
 
 <a id="show-your-game"></a>
 
+## コミュニティの作品
+
+- **[黒神 kokushin（@kokushing）](https://x.com/kokushing/status/2120081025338663303)** さんが、自作 MMORPG の NPC を Claude Code と Tripo Studio（Multiview）で作り、Blender で組み立てて Godot で動かしています。ノウハウ：クレジットを使う前に 3 面の下絵を人が確かめる、3 面に横線を引いて高さをそろえる、作る役とは別のレビュー役 AI に服を見せる。NPC 1 人あたり約 80 クレジット。（Tripo との PR 投稿です。）
+
 ## 作品をシェア
 
 このプロンプトでゲームを作ったら、リンクとスクリーンショットを添えて[シェアしてください](https://github.com/TripoGrowthLab/vibe-gaming-interactive-playbook/issues/new?template=show-your-game.yml)。エージェントや Tripo Studio がプロンプトどおりに動かなかったら、[教えてください](https://github.com/TripoGrowthLab/vibe-gaming-interactive-playbook/issues/new?template=prompt-feedback.yml)。プロンプトの一行一行は、そうした報告から生まれました。詳しくは[コントリビュートの方法](CONTRIBUTING.md)（英語）へ。
