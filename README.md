@@ -170,6 +170,10 @@ The Tripo models themselves are not in this repository; your generations will di
 
 <a id="show-your-game"></a>
 
+## From the community
+
+- **[kokushin (@kokushing)](https://x.com/kokushing/status/2120081025338663303)** made the NPCs for his own MMORPG with Claude Code and Tripo Studio (Multiview), assembled them in Blender and runs them in Godot. His tips: have a person check the three-view sketches before spending credits, draw lines across the views so the heights match, and let a second AI review every outfit. About 80 credits per NPC. (Post in Japanese; a Tripo paid partnership.)
+
 ## Show your game
 
 Made something with the prompt? [Share it](https://github.com/TripoGrowthLab/vibe-gaming-interactive-playbook/issues/new?template=show-your-game.yml) with a link and a screenshot. Found a step where the agent or Tripo Studio did not do what the prompt says? [Report it](https://github.com/TripoGrowthLab/vibe-gaming-interactive-playbook/issues/new?template=prompt-feedback.yml); every line in the prompt came from a report like that. See [contributing](CONTRIBUTING.md).

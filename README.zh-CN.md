@@ -170,6 +170,10 @@ npm install && npm run dev
 
 <a id="show-your-game"></a>
 
+## 社区作品
+
+- **[kokushin（@kokushing）](https://x.com/kokushing/status/2120081025338663303)** 用 Claude Code 和 Tripo Studio（Multiview）给自己的 MMORPG 做 NPC，在 Blender 里组装，在 Godot 里跑。他的经验：花积分之前先让人检查三视图草稿；在三张图上画横线对齐高度；让另一个 AI 专门审每一套服装。每个 NPC 约 80 积分。（原帖为日文，是 Tripo 的付费合作。）
+
 ## 晒出你的游戏
 
 用这条提示词做出了游戏？[发出来](https://github.com/TripoGrowthLab/vibe-gaming-interactive-playbook/issues/new?template=show-your-game.yml)，附上链接和截图。发现 agent 或 Tripo Studio 没按提示词说的来？[告诉我们](https://github.com/TripoGrowthLab/vibe-gaming-interactive-playbook/issues/new?template=prompt-feedback.yml)。提示词里的每一行都来自这样的反馈。见[参与方式](CONTRIBUTING.md)。
