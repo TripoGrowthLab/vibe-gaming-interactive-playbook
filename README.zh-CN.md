@@ -6,6 +6,7 @@
   <a href="README.md"><img alt="English" src="https://img.shields.io/badge/English-64748b?style=flat-square"></a>
   <a href="README.zh-CN.md"><img alt="简体中文" src="https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-✓-238636?style=flat-square"></a>
   <a href="README.ja.md"><img alt="日本語" src="https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-64748b?style=flat-square"></a>
+  <a href="README.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
 > 想先找点灵感？看看 [Awesome 3D Prompts](https://github.com/TripoGrowthLab/awesome-3d-prompts) 和 [Awesome Opus 5.5 Prompts](https://github.com/TripoGrowthLab/awesome-opus-5-5-prompts)。

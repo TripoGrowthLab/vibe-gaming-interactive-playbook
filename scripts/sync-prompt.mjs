@@ -4,7 +4,7 @@
 //   node scripts/sync-prompt.mjs --check  exit 1 if a README is out of date
 import { readFileSync, writeFileSync } from 'node:fs';
 
-const READMES = ['README.md', 'README.zh-CN.md', 'README.ja.md'];
+const READMES = ['README.md', 'README.zh-CN.md', 'README.ja.md', 'README.vi.md'];
 const source = readFileSync('prompt/vibe-gaming.md', 'utf8');
 const body = source.slice(source.indexOf('\n---\n') + 5).trim();
 const block = `<!-- prompt:start -->\n\`\`\`text\n${body}\n\`\`\`\n<!-- prompt:end -->`;
