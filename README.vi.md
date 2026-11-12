@@ -10,6 +10,8 @@
 </p>
 
 > Muốn tìm ý tưởng trước? Xem [Awesome 3D Prompts](https://github.com/TripoGrowthLab/awesome-3d-prompts) và [Awesome Opus 5.5 Prompts](https://github.com/TripoGrowthLab/awesome-opus-5-5-prompts).
+>
+> Muốn đọc trên web? [Hướng dẫn Vibe Gaming trên tripo3d.ai](https://www.tripo3d.ai/vi/tutorials/vibe-gaming?utm_source=github&utm_medium=referral&utm_campaign=vibe_gaming_interactive_handbook&utm_content=readme_vi_quote_hub) có cùng prompt kèm nút sao chép, và phần hướng dẫn từng bước cho mỗi game mẫu.
 
 <a href="https://studio.tripo3d.ai/?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=vibe_gaming_interactive_handbook&amp;utm_content=readme_vi_hero"><img src="assets/hero.webp" width="100%" alt="Vibe Gaming Interactive Playbook: cùng một thế giới game ở bản greybox và bản đã có mô hình 3D hoàn chỉnh"></a>
 
@@ -19,7 +21,7 @@ Dán một prompt vào coding agent của bạn. Agent cùng bạn thiết kế 
 
 **1 prompt · 6 giai đoạn · 3 game mẫu · 0 lần con người can thiệp trong cả ba game**
 
-[Bắt đầu](#start-here) · [Prompt](#the-prompt) · [Game mẫu](#example-games) · [Lấy mô hình](#get-the-models) · [Thảo luận](https://github.com/TripoGrowthLab/vibe-gaming-interactive-playbook/discussions) · [Nhật ký thay đổi](prompt/CHANGELOG.md) · [Tripo Studio ↗](https://studio.tripo3d.ai/?utm_source=github&utm_medium=referral&utm_campaign=vibe_gaming_interactive_handbook&utm_content=readme_vi_nav)
+[Bắt đầu](#start-here) · [Prompt](#the-prompt) · [Game mẫu](#example-games) · [Lấy mô hình](#get-the-models) · [Thảo luận](https://github.com/TripoGrowthLab/vibe-gaming-interactive-playbook/discussions) · [Nhật ký thay đổi](prompt/CHANGELOG.md) · [Hướng dẫn trên web ↗](https://www.tripo3d.ai/vi/tutorials/vibe-gaming?utm_source=github&utm_medium=referral&utm_campaign=vibe_gaming_interactive_handbook&utm_content=readme_vi_nav_hub) · [Tripo Studio ↗](https://studio.tripo3d.ai/?utm_source=github&utm_medium=referral&utm_campaign=vibe_gaming_interactive_handbook&utm_content=readme_vi_nav)
 
 <img src="assets/greybox-to-models.webp" width="100%" alt="Từng game mẫu chuyển từ greybox sang mô hình Tripo">
 
@@ -109,9 +111,9 @@ Mỗi game được dựng từ một thư mục trống bằng một phiên b�
 
 <table>
 <tr>
-<td width="33%" valign="top"><a href="https://handbook-snowdrift-dash.tripo.page/?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=vibe_gaming_interactive_handbook&amp;utm_content=readme_vi_featured_ski"><img src="assets/games/ski.webp" width="280" alt="Snowdrift Dash"></a><br><strong><a href="#snowdrift-dash">Snowdrift Dash</a></strong><br><sub>Trượt tuyết đổ dốc vô tận · prompt v3.2</sub><br><a href="https://handbook-snowdrift-dash.tripo.page/?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=vibe_gaming_interactive_handbook&amp;utm_content=readme_vi_featured_ski">Chơi ↗</a> · <a href="examples/ski">Mã nguồn</a></td>
-<td width="33%" valign="top"><a href="https://handbook-lantern-alley.tripo.page/?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=vibe_gaming_interactive_handbook&amp;utm_content=readme_vi_featured_lantern_alley"><img src="assets/games/lantern-alley.webp" width="280" alt="LANTERN ALLEY"></a><br><strong><a href="#lantern-alley">LANTERN ALLEY</a></strong><br><sub>Beat 'em up 3D kiểu arcade · prompt v2</sub><br><a href="https://handbook-lantern-alley.tripo.page/?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=vibe_gaming_interactive_handbook&amp;utm_content=readme_vi_featured_lantern_alley">Chơi ↗</a> · <a href="examples/lantern-alley">Mã nguồn</a></td>
-<td width="33%" valign="top"><a href="https://handbook-pit-nine.tripo.page/?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=vibe_gaming_interactive_handbook&amp;utm_content=readme_vi_featured_pit_nine"><img src="assets/games/pit-nine.webp" width="280" alt="PIT NINE"></a><br><strong><a href="#pit-nine">PIT NINE</a></strong><br><sub>Bắn súng đấu trường góc nhìn từ trên · prompt v3</sub><br><a href="https://handbook-pit-nine.tripo.page/?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=vibe_gaming_interactive_handbook&amp;utm_content=readme_vi_featured_pit_nine">Chơi ↗</a> · <a href="examples/pit-nine">Mã nguồn</a></td>
+<td width="33%" valign="top"><a href="https://handbook-snowdrift-dash.tripo.page/?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=vibe_gaming_interactive_handbook&amp;utm_content=readme_vi_featured_ski"><img src="assets/games/ski.webp" width="280" alt="Snowdrift Dash"></a><br><strong><a href="#snowdrift-dash">Snowdrift Dash</a></strong><br><sub>Trượt tuyết đổ dốc vô tận · prompt v3.2</sub><br><a href="https://handbook-snowdrift-dash.tripo.page/?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=vibe_gaming_interactive_handbook&amp;utm_content=readme_vi_featured_ski">Chơi ↗</a> · <a href="examples/ski">Mã nguồn</a> · <a href="https://www.tripo3d.ai/vi/tutorials/vibe-gaming/games/ski?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=vibe_gaming_interactive_handbook&amp;utm_content=readme_vi_featured_ski_walkthrough">Hướng dẫn ↗</a></td>
+<td width="33%" valign="top"><a href="https://handbook-lantern-alley.tripo.page/?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=vibe_gaming_interactive_handbook&amp;utm_content=readme_vi_featured_lantern_alley"><img src="assets/games/lantern-alley.webp" width="280" alt="LANTERN ALLEY"></a><br><strong><a href="#lantern-alley">LANTERN ALLEY</a></strong><br><sub>Beat 'em up 3D kiểu arcade · prompt v2</sub><br><a href="https://handbook-lantern-alley.tripo.page/?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=vibe_gaming_interactive_handbook&amp;utm_content=readme_vi_featured_lantern_alley">Chơi ↗</a> · <a href="examples/lantern-alley">Mã nguồn</a> · <a href="https://www.tripo3d.ai/vi/tutorials/vibe-gaming/games/lantern-alley?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=vibe_gaming_interactive_handbook&amp;utm_content=readme_vi_featured_lantern_alley_walkthrough">Hướng dẫn ↗</a></td>
+<td width="33%" valign="top"><a href="https://handbook-pit-nine.tripo.page/?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=vibe_gaming_interactive_handbook&amp;utm_content=readme_vi_featured_pit_nine"><img src="assets/games/pit-nine.webp" width="280" alt="PIT NINE"></a><br><strong><a href="#pit-nine">PIT NINE</a></strong><br><sub>Bắn súng đấu trường góc nhìn từ trên · prompt v3</sub><br><a href="https://handbook-pit-nine.tripo.page/?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=vibe_gaming_interactive_handbook&amp;utm_content=readme_vi_featured_pit_nine">Chơi ↗</a> · <a href="examples/pit-nine">Mã nguồn</a> · <a href="https://www.tripo3d.ai/vi/tutorials/vibe-gaming/games/pit-nine?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=vibe_gaming_interactive_handbook&amp;utm_content=readme_vi_featured_pit_nine_walkthrough">Hướng dẫn ↗</a></td>
 </tr>
 </table>
 
@@ -170,6 +172,10 @@ Mỗi game mẫu liệt kê mô hình của nó trong `assets.json`, kèm kích 
 Bản thân các mô hình Tripo không nằm trong repo này; mô hình bạn tạo sẽ hơi khác của chúng tôi, vì vậy ở giai đoạn 5 agent kiểm tra từng mô hình với bản greybox của nó.
 
 <a id="show-your-game"></a>
+
+## Từ cộng đồng
+
+- **[kokushin (@kokushing)](https://x.com/kokushing/status/2120081025338663303)** làm các NPC cho game MMORPG của riêng mình bằng Claude Code và Tripo Studio (Multiview), lắp ráp trong Blender và chạy trong Godot. Kinh nghiệm của anh: để người kiểm tra bản phác ba góc nhìn trước khi tiêu credit, kẻ đường ngang qua ba góc nhìn để chiều cao khớp nhau, và để một AI thứ hai duyệt từng bộ trang phục. Khoảng 80 credit cho mỗi NPC. (Bài đăng bằng tiếng Nhật; hợp tác trả phí với Tripo.)
 
 ## Khoe game của bạn
 
