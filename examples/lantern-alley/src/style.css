@@ -59,10 +59,12 @@ body.touch.portrait #rotate { display: block; animation: fadeout 4s forwards; }
 @keyframes combo { 0% { opacity: 1; transform: rotate(-6deg) scale(1.5); } 12% { transform: rotate(-6deg) scale(1); } 75% { opacity: 1; } 100% { opacity: 0; transform: rotate(-6deg) scale(1); } }
 /* "Made with Tripo": top centre between the health bar and the wave counter (above where the boss
    bar appears); on narrow portrait phones there is no room there, so it sits above the touch controls. */
-#made-with { position: fixed; top: max(8px, env(safe-area-inset-top)); left: 50%; transform: translateX(-50%);
+#made-with, #make-own { position: fixed; top: max(8px, env(safe-area-inset-top)); left: 50%; transform: translateX(-50%);
   font-family: system-ui, sans-serif; font-size: 12px; line-height: 1; color: #fff; opacity: .8; text-decoration: none;
   padding: 3px 7px; border-radius: 10px; background: rgba(0,0,0,.35); white-space: nowrap; z-index: 5; }
-#made-with:hover { opacity: 1; text-decoration: underline; }
+#made-with:hover, #make-own:hover { opacity: 1; text-decoration: underline; }
+#make-own { top: calc(max(8px, env(safe-area-inset-top)) + 22px); }
 @media (max-width: 599px) {
   #made-with { top: auto; bottom: calc(max(24px, env(safe-area-inset-bottom)) + 214px); }   /* above the PUNCH/KICK column (198 px) */
+  #make-own { top: auto; bottom: calc(max(24px, env(safe-area-inset-bottom)) + 238px); }
 }
