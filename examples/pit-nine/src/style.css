@@ -32,8 +32,8 @@ body { font-family: 'Trebuchet MS', 'Arial Black', system-ui, sans-serif; color:
 .mark.big::before, .mark.big::after { left: 15px; height: 38px; width: 4px; background: #ff4a3a; }
 @keyframes mark { from { transform: scale(1.4); opacity: 1; } to { transform: scale(0.8); opacity: 0; } }
 /* small credit link at the bottom of the top-right button column: out of the play area on desktop and phone */
-#tripo-link { pointer-events: auto; font-size: 12px; font-weight: bold; color: #fff; text-decoration: none; background: #0009; padding: 3px 8px; border-radius: 6px; text-shadow: none; opacity: 0.85; }
-#tripo-link:hover { opacity: 1; text-decoration: underline; }
+#tripo-link, #make-own { pointer-events: auto; font-size: 12px; font-weight: bold; color: #fff; text-decoration: none; background: #0009; padding: 3px 8px; border-radius: 6px; text-shadow: none; opacity: 0.85; }
+#tripo-link:hover, #make-own:hover { opacity: 1; text-decoration: underline; }
 #buttons { position: absolute; right: max(12px, env(safe-area-inset-right)); top: max(12px, env(safe-area-inset-top)); display: flex; flex-direction: column; gap: 6px; align-items: flex-end; }
 #banner { position: absolute; left: 0; right: 0; top: 32%; text-align: center; font-size: clamp(28px, 7vw, 64px); font-weight: 900; letter-spacing: 3px; color: #ffd23f; opacity: 0; transition: opacity 0.25s; }
 #banner.show { opacity: 1; }
@@ -65,7 +65,7 @@ body.touch #help { display: none; }
   .part .bar { width: clamp(28px, calc((100vw - 190px) / 5 - 8px), 52px); height: 7px; }
   #boss { gap: 4px; }
   #hud button { padding: 4px 8px; font-size: 13px; }
-  #tripo-link { font-size: 11px; padding: 2px 6px; }
+  #tripo-link, #make-own { font-size: 11px; padding: 2px 6px; }
 }
 /* short landscape phones: boss bars go to the bottom so the Foreman has the top of the screen */
 @media (max-height: 500px) and (orientation: landscape) {
