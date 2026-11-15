@@ -31,7 +31,7 @@ Paste one prompt into your coding agent. It designs a small browser game with yo
 
 ## Start here
 
-1. **Copy the prompt.** Open an empty folder in your coding agent (Claude Code, Codex, Cursor, …) and paste [the prompt](#the-prompt).
+1. **Copy the prompt.** Open an empty folder in your coding agent (Claude Code, Codex, Cursor, …) and paste [the prompt](#the-prompt). Or copy it with one click from the [web guide](https://www.tripo3d.ai/tutorials/vibe-gaming?utm_source=github&utm_medium=referral&utm_campaign=vibe_gaming_interactive_handbook&utm_content=readme_start_copy).
 2. **Answer, then play the greybox.** The agent asks up to five questions, writes a one-page design and builds the game from simple shapes. Play it and say what feels wrong; it fixes and retests.
 3. **Make the models, then swap them in.** The agent writes `assets.json` and a table of every model, marking up to two heroes to make in high detail. Make them with the [Tripo Studio steps](prompt/tripo-studio-steps.md), export GLB, and the agent puts them in the game and checks each one against its greybox.
 
