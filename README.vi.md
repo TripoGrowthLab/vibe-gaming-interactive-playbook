@@ -31,7 +31,7 @@ Dán một prompt vào coding agent của bạn. Agent cùng bạn thiết kế 
 
 ## Bắt đầu
 
-1. **Sao chép prompt.** Mở một thư mục trống trong coding agent (Claude Code, Codex, Cursor, …) và dán [prompt](#the-prompt).
+1. **Sao chép prompt.** Mở một thư mục trống trong coding agent (Claude Code, Codex, Cursor, …) và dán [prompt](#the-prompt). Hoặc sao chép bằng một cú bấm trong [hướng dẫn trên web](https://www.tripo3d.ai/vi/tutorials/vibe-gaming?utm_source=github&utm_medium=referral&utm_campaign=vibe_gaming_interactive_handbook&utm_content=readme_vi_start_copy).
 2. **Trả lời, rồi chơi bản greybox.** Agent hỏi tối đa năm câu, viết một trang thiết kế và dựng game bằng các khối đơn giản. Chơi thử và nói chỗ nào chưa ổn; agent sẽ sửa và kiểm tra lại.
 3. **Tạo mô hình, rồi thay vào.** Agent viết `assets.json` và một bảng liệt kê mọi mô hình, đánh dấu tối đa hai mô hình chính (hero) cần làm chi tiết cao. Tạo chúng theo [các bước trong Tripo Studio](prompt/tripo-studio-steps.md), xuất GLB, agent sẽ đưa vào game và so từng mô hình với bản greybox của nó.
 
