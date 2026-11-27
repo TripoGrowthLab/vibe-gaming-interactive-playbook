@@ -1,5 +1,7 @@
 # Tripo Studio steps
 
+> Connected the [Tripo MCP](https://studio.tripo3d.ai/mcp?from=vgh-steps) in your coding agent? It makes props, objects with parts and heroes for you (prompt step 4). Use this page for people that animate, and for everything when the MCP is not connected.
+
 For stage 4 of the [Vibe Gaming Prompt](vibe-gaming.md). Your coding agent gives you a table with one row per entry: id, kind, hero or not, image prompt, polygon budget, file name, animations or parts, and styles or a texture prompt. Make every row in [Tripo Studio](https://studio.tripo3d.ai/workspace/generate?from=vgh-prompt-steps) with the steps below, then put the files in `public/assets/` and tell your agent they are in.
 
 Studio changes often. If a button is not where these steps say, look for it nearby, and tell your agent what you did differently.
