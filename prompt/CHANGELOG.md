@@ -4,6 +4,19 @@ The prompt in [`vibe-gaming.md`](vibe-gaming.md) is copied into a coding agent a
 
 Every change comes from building a game with the prompt from an empty folder and writing down where the agent, or the person following step 4 in Tripo Studio, went wrong.
 
+## 1.2 — 2026-11-27
+
+Tripo released its MCP server on 2026-11-26 (https://studio.tripo3d.ai/mcp), so the agent can now make most models itself instead of handing every one to you.
+
+**From one build of Snowdrift Dash with Claude Code and the Tripo MCP (beta, 2026-11-21) and a run through all 39 MCP tools after release (2026-11-26):**
+
+- **Step 4 now starts with the MCP.** If it is connected, the agent makes props, objects with parts, and heroes or people that do not animate: generate, keep the polygon budget, export GLB. A hero goes through the high-detail model and is then reduced to the budget, the same route as the Studio steps. All five Snowdrift Dash models were made this way and the game ran on desktop and phone.
+- **People that animate still come to you.** Rigging and retargeting work through the MCP, but the exported GLB and FBX carry the skeleton without the animations, so the agent cannot play them yet. When Tripo fixes the export, this line goes.
+- **Ask before spending.** The MCP charges like Studio and the agent cannot check the balance, so it estimates the cost of the whole list and waits for a yes.
+- **One job at a time, save straight from the link.** High-detail jobs took 7–9 minutes. The download link is about 900 characters long; an agent that copied it by hand broke it and got a 403.
+- **Step 5: meshopt.** GLB files from the MCP are compressed with meshopt; three.js needs the MeshoptDecoder or the models do not load.
+- If the MCP is not connected, step 4 works exactly as in 1.1.
+
 ## Steps page, community tip — 2026-11-11
 
 Step 1 of [`tripo-studio-steps.md`](tripo-studio-steps.md) now has a note on making several characters in one style. It is the first note that does not come from a build with this prompt: it summarises [kokushin's NPC build](https://x.com/kokushing/status/2120081025338663303) (Claude Code and Tripo Studio Multiview, a Tripo paid partnership) and says so where it appears. The prompt itself does not change; if a build with the prompt confirms the tips, they move into it with a row here.
