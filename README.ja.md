@@ -31,7 +31,7 @@
 
 ## はじめに
 
-1. **プロンプトをコピー。** コーディングエージェント（Claude Code、Codex、Cursor など）で空のフォルダを開き、[プロンプト](#the-prompt)を貼り付けます。
+1. **プロンプトをコピー。** コーディングエージェント（Claude Code、Codex、Cursor など）で空のフォルダを開き、[プロンプト](#the-prompt)を貼り付けます。[Web ガイド](https://www.tripo3d.ai/ja/tutorials/vibe-gaming?utm_source=github&utm_medium=referral&utm_campaign=vibe_gaming_interactive_handbook&utm_content=readme_ja_start_copy)からワンクリックでコピーすることもできます。
 2. **質問に答えて、グレーボックス版を遊ぶ。** エージェントが最大 5 つ質問し、1 ページの設計書を書き、シンプルな形だけでゲームを組み立てます。遊んでみて気になった点を伝えれば、直してテストし直します。
 3. **モデルを作って差し替える。** エージェントが `assets.json` とモデルの一覧表を書き出し、高精細に作る主役アセットを最大 2 つ指定します。[Tripo Studio の手順](prompt/tripo-studio-steps.md)どおりに生成して GLB で書き出せば、エージェントがゲームに組み込み、ひとつずつグレーボックス版と見比べてチェックします。
 

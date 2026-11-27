@@ -31,7 +31,7 @@
 
 ## 从这里开始
 
-1. **复制提示词。** 在 coding agent（Claude Code、Codex、Cursor……）里打开一个空文件夹，贴入[提示词](#the-prompt)。
+1. **复制提示词。** 在 coding agent（Claude Code、Codex、Cursor……）里打开一个空文件夹，贴入[提示词](#the-prompt)。也可以在[网页版指南](https://www.tripo3d.ai/zh/tutorials/vibe-gaming?utm_source=github&utm_medium=referral&utm_campaign=vibe_gaming_interactive_handbook&utm_content=readme_zh_start_copy)里一键复制。
 2. **回答问题，试玩灰盒。** agent 最多问 5 个问题，写一页设计文档，用简单几何体把游戏搭出来。你来玩，说哪里不对，它改完再测。
 3. **做模型，换进去。** agent 写好 `assets.json` 和一张模型清单，最多标出两件要做成高精度的主角资产。你照 [Tripo Studio 操作步骤](prompt/tripo-studio-steps.md) 生成、导出 GLB，agent 把模型放进游戏，并逐个对照灰盒检查。
 
